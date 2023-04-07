@@ -15,7 +15,7 @@
 * 项目用到的变量
   | 变量名 | 是否必须 | 默认值 | 备注 |
   | ------------ | ------ | ------ | ------ |
-  | UUID         | 否 | de04add9-5c68-8bab-950c-08cd5320df18 | 可在线生成 https://www.uuidgenerator.net/ |
+  | UUID         | 否 | 967ea3ae-cb24-11ed-afa1-0242ac120002 | 可在线生成 https://www.uuidgenerator.net/ |
   | VMESS_WSPATH | 否 | /vm | 以 / 开头 |
   | VLESS_WSPATH | 否 | /vl | 以 / 开头 |
   | TROJAN_WSPATH | 否 | /tr | 以 / 开头 |
